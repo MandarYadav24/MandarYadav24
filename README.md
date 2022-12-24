@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MandarYadav24
-- 👀 I’m interested in Operating System programming, Devops, Cloud computing Software Development.
+- 👀 I’m interested in Operating System programming, Devops, Cloud computing & Software Development.
 - 🌱 I’m currently learning Devops & Cloud computing.
 - 💞️ I’m looking to collaborate on Cloud computing.
 - 📫 How to reach me Linkdin & Github.
